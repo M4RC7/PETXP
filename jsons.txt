@@ -1,0 +1,56 @@
+Criar Ong:
+	{
+    "nomeOng" : "OngTeste" ,
+    "ongCpnj": "476556422",
+    "ongEmail" : "ongTeste@teste.com",
+    "ongTelArea" : "12",
+    "ongTel" : "99999999",
+    "ongSGEstado" : "MG",
+    "ongCidade" :"Minas Gerais",
+    "ongCep" : "31035400",
+    "ongNum"  : "14595",
+    "OngEnd"  : "R. Itajuba 1945, sagrada Familia"
+    
+}
+
+
+Cria Adodante
+	{
+    "nomeAdt" : "testevaldo" ,
+    "sobreNomeAdt": "Orlando",
+    "adtEmail" : "ongTeste@teste.com",
+    "adtTelArea" : "12",
+    "adtTel" : "99999999",
+    "adtSGEstado" : "MG",
+    "adtCidade" :"Minas Gerais",
+    "adtCep" : "31035400",
+    "adtNum"  : "14595",
+    "adtEnd"  : "R. Itajuba 1945, sagrada Familia"
+    
+}
+
+Cria Animal
+
+{
+    "codOng" : 1 ,
+    "nome": "boby",
+    "especie" : "cachorro",
+    "raca" : "de rua",
+    "idade" : "10"
+}
+
+{
+    "codOng" : 1 ,
+    "nome": "aliex",
+    "especie" : "gato",
+    "raca" : "de rua",
+    "idade" : "10"
+}
+
+Criar Pedido
+
+{
+	"codAni" : 1,
+	"contEmail" : "teste@teste.com"
+	
+}

@@ -1,0 +1,12 @@
+Detalhes dos casos:
+	CRUD  Fábio
+	Pesquisa Animal - Marcos  
+	Realizar pedido de adoção  Heleny
+
+Data: 27/09
+
+Diagrama de atividades Jõao
+
+Diagrama de classes -  Henrique 
+
+Data: 04/10
